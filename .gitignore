@@ -1,0 +1,11 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore crypto key files and temporary data
+*.pem
+*.txt
+
+# Optional: editor/OS-specific ignores
+.DS_Store
+.vscode/
